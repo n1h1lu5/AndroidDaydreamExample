@@ -1,2 +1,6 @@
 # AndroidDaydreamExample
-A simple Daydream (interactive screensaver) for Android 5.1.
+An example of a simple Daydream for Android 5.1.
+
+You will need:
+* Android Studio
+* API 22: Android 5.1
